@@ -1,0 +1,6 @@
+Chạy tệp PineAppleV3.exe rồi chơi thôi :))
+- Phím tắt:
++ A : sang trái 
++ D : sang phải 
++ Space : Nhảy 
++ E : Tương tác với Loppy
